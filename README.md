@@ -60,12 +60,13 @@ README.md
 ```
 
 
-## 👥 Team
+## 👥 **The DataSmiths**
 
-**The DataSmiths**
-
-Capstone Project Team
-
+| Name | Role |
+|---|---|
+| Abraham E.P | Team Lead |
+| Akinbobose Oludeji O. | pending |
+| Dunmoye Halimah O. | pending |
 
 
 ## 🚀 Project Status
