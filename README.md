@@ -1,2 +1,86 @@
-# The-DataSmiths-Capstone
-Capstone project by The DataSmiths: Employee Attrition Prediction using Machine Learning.
+# The DataSmiths – Employee Attrition Prediction
+
+## 📖 Project Overview
+
+This repository contains the capstone project completed by **The DataSmiths** as part of our Data Science training.
+
+Our project focuses on predicting employee attrition using machine learning techniques. By analyzing employee demographics, job-related information, compensation, and workplace factors, we aim to identify employees who are at risk of leaving an organization and provide actionable recommendations to improve employee retention.
+
+---
+
+## 🎯 Problem Statement
+
+Employee turnover is a major challenge for organizations because losing skilled employees increases recruitment costs, reduces productivity, and affects team performance.
+
+The objective of this project is to develop a machine learning model that predicts whether an employee is likely to leave the company based on available employee data.
+
+---
+
+## 🎯 Objectives
+
+- Perform Exploratory Data Analysis (EDA).
+- Clean and preprocess the dataset.
+- Identify factors influencing employee attrition.
+- Build classification models.
+- Evaluate model performance.
+- Recommend strategies to improve employee retention.
+
+---
+
+## 📂 Dataset
+
+IBM HR Analytics Employee Attrition Dataset
+
+Source:
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- GitHub
+
+---
+
+## 📁 Repository Structure
+
+```
+data/
+notebooks/
+reports/
+presentation/
+images/
+README.md
+```
+
+---
+
+## 👥 Team
+
+**The DataSmiths**
+
+Capstone Project Team
+
+---
+
+## 🚀 Project Status
+
+🟢 Project Initiated
+
+Currently working on:
+- Data understanding
+- Data cleaning
+- Exploratory Data Analysis
+
+---
+
+## 📜 License
+
+This repository is intended for educational purposes.
