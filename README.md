@@ -72,12 +72,12 @@ Capstone Project Team
 
 ## 🚀 Project Status
 
-🟢 Project Initiated
+🟡 In Progress
 
-Currently working on:
-- Data understanding
-- Data cleaning
-- Exploratory Data Analysis
+Current Phase:
+- Project Planning
+- Team Organization
+- Repository Setup
 
 ---
 
