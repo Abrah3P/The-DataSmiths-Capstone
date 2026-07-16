@@ -6,7 +6,7 @@ This repository contains the capstone project completed by **The DataSmiths** as
 
 Our project focuses on predicting employee attrition using machine learning techniques. By analyzing employee demographics, job-related information, compensation, and workplace factors, we aim to identify employees who are at risk of leaving an organization and provide actionable recommendations to improve employee retention.
 
----
+
 
 ## 🎯 Problem Statement
 
@@ -14,7 +14,7 @@ Employee turnover is a major challenge for organizations because losing skilled 
 
 The objective of this project is to develop a machine learning model that predicts whether an employee is likely to leave the company based on available employee data.
 
----
+
 
 ## 🎯 Objectives
 
@@ -25,7 +25,7 @@ The objective of this project is to develop a machine learning model that predic
 - Evaluate model performance.
 - Recommend strategies to improve employee retention.
 
----
+
 
 ## 📂 Dataset
 
@@ -34,7 +34,7 @@ IBM HR Analytics Employee Attrition Dataset
 Source:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
----
+
 
 ## 🛠 Tools & Technologies
 
@@ -47,7 +47,6 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Jupyter Notebook
 - GitHub
 
----
 
 ## 📁 Repository Structure
 
@@ -60,7 +59,6 @@ images/
 README.md
 ```
 
----
 
 ## 👥 Team
 
@@ -68,7 +66,7 @@ README.md
 
 Capstone Project Team
 
----
+
 
 ## 🚀 Project Status
 
@@ -79,7 +77,7 @@ Current Phase:
 - Team Organization
 - Repository Setup
 
----
+
 
 ## 📜 License
 
